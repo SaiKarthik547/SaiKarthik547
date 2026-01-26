@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **karthiksai5421@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/folders/16yjmUc-Rv6j_HgxXhOpTfGz42OXFnhN6?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jFicm5PQEUiL_CBkufPb6ExSQP9A-wyH/view?usp=sharing]
 ](Resume Link)
 - ⚡ Fun fact **I think I am Funny**
 
