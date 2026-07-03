@@ -6,7 +6,7 @@
 - 📫 How to reach me **karthiksai5421@gmail.com**
 
 - 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/1v-4pcnljLO2c95RqqrvPmygXugooazf8/view?usp=sharing)]
-](Resume Link)
+  
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
