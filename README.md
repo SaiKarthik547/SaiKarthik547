@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Karthik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikarthik547&label=Profile%20views&color=0e75b6&style=flat" alt="saikarthik547" /> </p>
 
 - 📫 How to reach me **karthiksai5421@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFicm5PQEUiL_CBkufPb6ExSQP9A-wyH/view?usp=sharing]
+- 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/1v-4pcnljLO2c95RqqrvPmygXugooazf8/view?usp=sharing)]
 ](Resume Link)
 - ⚡ Fun fact **I think I am Funny**
 
